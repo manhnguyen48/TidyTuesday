@@ -1,7 +1,7 @@
 
 library(tidyverse)
 library(hrbrthemes)
-
+library(tidytuesdayR)
 
 setwd("D:/Projects/Tidy Tuesday/wc 140420")
 
